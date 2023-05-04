@@ -55,7 +55,9 @@ class ClientController extends Controller
         public function render($titre,$view=null)
         {   
             if(!empty($view)){
+                echo view($this->zone.'/template/header', array('titre'=>'Tricom-Coiffure | '.$titre));
                 echo view($this->zone.'/'.$view, array('data' => $this->data, 'titre'=>'Tricom-Coiffure | '.$titre));
+                echo view($this->zone.'/template/footer', array());
             }           
             die;
         }
