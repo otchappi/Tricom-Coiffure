@@ -71,7 +71,7 @@ class App extends BaseConfig
      * strings (like currency markers, numbers, etc), that your program
      * should run under for this request.
      */
-    public string $defaultLocale = 'en';
+    public string $defaultLocale = 'fr';
 
     /**
      * --------------------------------------------------------------------------
@@ -105,8 +105,6 @@ class App extends BaseConfig
      *
      * The default timezone that will be used in your application to display
      * dates with the date helper, and can be retrieved through app_timezone()
-     *
-     * @see https://www.php.net/manual/en/timezones.php for list of timezones supported by PHP.
      */
     public string $appTimezone = 'UTC';
 
