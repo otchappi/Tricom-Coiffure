@@ -8,13 +8,32 @@
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-start">
-                                <div class="col-lg-8">
-                                    <p
-                                        class="d-inline-block border border-white rounded text-primary fw-semi-bold py-1 px-3 animated slideInDown">
-                                        Welcome to Finanza</p>
-                                    <h1 class="display-1 mb-4 animated slideInDown">Your Financial Status Is Our Goal
-                                    </h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Explore More</a>
+                                <div class="col-lg-6">
+                                    <h4 class="display-1 mb-4 animated slideInDown" style="font-size: 2.8em;">
+                                        Des coiffures africaines authentiques à portée de clic !
+                                    </h4>
+                                    <a href="" class="btn btn-primary py-2 px-3 animated slideInDown">
+                                        Prendre rendez-vous &nbsp; &nbsp;
+                                        <span class="fa fa-calendar"></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="w-100" src="<?=img_url('carousel-2.jpg')?>" alt="Image">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-start">
+                                <div class="col-lg-6">
+                                    <h4 class="display-1 mb-4 animated slideInDown" style="font-size: 2.8em;">
+                                        Des coiffures africaines authentiques à portée de clic !
+                                    </h4>
+                                    <a href="" class="btn btn-primary py-2 px-3 animated slideInDown">
+                                        Prendre rendez-vous &nbsp; &nbsp;
+                                        <span class="fa fa-calendar"></span>
+                                    </a>
                                 </div>
                             </div>
                         </div>
