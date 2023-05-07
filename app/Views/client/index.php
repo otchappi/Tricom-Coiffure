@@ -12,7 +12,7 @@
                                     <h4 class="display-1 mb-4 animated slideInDown" style="font-size: 2.8em;">
                                         Des coiffures africaines authentiques à portée de clic !
                                     </h4>
-                                    <a href="" class="btn btn-primary py-2 px-3 animated slideInDown">
+                                    <a href="" class="btn btn-info py-2 px-3 animated slideInDown">
                                         Prendre rendez-vous &nbsp; &nbsp;
                                         <span class="fa fa-calendar"></span>
                                     </a>
@@ -30,7 +30,7 @@
                                     <h4 class="display-1 mb-4 animated slideInDown" style="font-size: 2.8em;">
                                         Prenez rendez-vous facilement pour un relooking tendance !
                                     </h4>
-                                    <a href="" class="btn btn-primary py-2 px-3 animated slideInDown">
+                                    <a href="" class="btn btn-info py-2 px-3 animated slideInDown">
                                         Prendre rendez-vous &nbsp; &nbsp;
                                         <span class="fa fa-calendar"></span>
                                     </a>
@@ -60,7 +60,7 @@
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
                         <div class="h-100">
                             <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
+                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-info">
                                     <i class="fa fa-address-book text-white"></i>
                                 </div>
                                 <div class="ps-3">
@@ -75,7 +75,7 @@
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
                         <div class="h-100">
                             <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
+                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-info">
                                     <i class="fa fa-calendar text-white"></i>
                                 </div>
                                 <div class="ps-3">
@@ -90,7 +90,7 @@
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
                         <div class="h-100">
                             <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
+                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-info">
                                     <i class="fa fa-phone text-white"></i>
                                 </div>
                                 <div class="ps-3">
@@ -122,7 +122,7 @@
                             <div class="row g-4">
                                 <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
                                     <div class="feature-box border rounded p-4">
-                                        <i class="fa fa-puzzle-piece fa-2x text-primary mb-3"></i>
+                                        <i class="fa fa-puzzle-piece fa-2x text-info mb-3"></i>
                                         <h4 class="mb-3">Flexibilité</h4>
                                         <p class="mb-3">
                                             Nous sommes conscients que les clients ont des horaires chargés et des besoins différents.
@@ -131,7 +131,7 @@
                                 </div>
                                 <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
                                     <div class="feature-box border rounded p-4">
-                                        <i class="fa fa-shower fa-2x text-primary mb-3"></i>
+                                        <i class="fa fa-shower fa-2x text-info mb-3"></i>
                                         <h4 class="mb-3">Hygiène et propreté</h4>
                                         <p class="mb-3">
                                             Nous prenons très au sérieux l'hygiène et la propreté lors de nos prestations.
@@ -144,7 +144,7 @@
                             <div class="row g-4">
                                 <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
                                     <div class="feature-box border rounded p-4">
-                                        <i class="fa fa-credit-card fa-2x text-primary mb-3"></i>
+                                        <i class="fa fa-credit-card fa-2x text-info mb-3"></i>
                                         <h4 class="mb-3">Tarifs abordables</h4>
                                         <p class="mb-3">
                                             Nous offrons des tarifs abordables tout en maintenant la qualité de notre travail.
@@ -153,7 +153,7 @@
                                 </div>
                                 <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
                                     <div class="feature-box border rounded p-4">
-                                        <i class="fa fa-headphones fa-2x text-primary mb-3"></i>
+                                        <i class="fa fa-headphones fa-2x text-info mb-3"></i>
                                         <h4 class="mb-3">Ouverture d'esprit</h4>
                                         <p class="mb-3">
                                             Nous sommes ouverts d'esprit et à l'écoute de nos clients.
@@ -164,7 +164,7 @@
                         </div>
                         <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
                             <div class="feature-box border rounded p-4">
-                                <i class="fa fa-magic fa-3x text-primary mb-3"></i>
+                                <i class="fa fa-magic fa-3x text-info mb-3"></i>
                                 <h4 class="mb-3">Expertise</h4>
                                 <p class="mb-3">
                                      Nous avons des coiffeuses expertes et expérimentées dans notre équipe.
@@ -223,7 +223,7 @@
                     <img class="img-fluid rounded" src="img/about.jpg">
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">About Us</p>
+                    <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">About Us</p>
                     <h1 class="display-5 mb-4">We Help Our Clients To Grow Their Business</h1>
                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
                         eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
@@ -272,7 +272,7 @@
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
                         <div class="h-100">
                             <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
+                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-info">
                                     <i class="fa fa-times text-white"></i>
                                 </div>
                                 <div class="ps-3">
@@ -287,7 +287,7 @@
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
                         <div class="h-100">
                             <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
+                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-info">
                                     <i class="fa fa-users text-white"></i>
                                 </div>
                                 <div class="ps-3">
@@ -302,7 +302,7 @@
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
                         <div class="h-100">
                             <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
+                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-info">
                                     <i class="fa fa-phone text-white"></i>
                                 </div>
                                 <div class="ps-3">
@@ -358,7 +358,7 @@
     <div class="container-xxl service py-5">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">Our Services</p>
+                <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">Our Services</p>
                 <h1 class="display-5 mb-5">Awesome Financial Services For Business</h1>
             </div>
             <div class="row g-4 wow fadeInUp" data-wow-delay="0.3s">
@@ -366,19 +366,19 @@
                     <div class="nav nav-pills d-flex justify-content-between w-100 h-100 me-4">
                         <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-4 active"
                             data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
-                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Financial Planning</h5>
+                            <h5 class="m-0"><i class="fa fa-bars text-info me-3"></i>Financial Planning</h5>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-4"
                             data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
-                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Cash Investment</h5>
+                            <h5 class="m-0"><i class="fa fa-bars text-info me-3"></i>Cash Investment</h5>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-4"
                             data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
-                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Financial Consultancy</h5>
+                            <h5 class="m-0"><i class="fa fa-bars text-info me-3"></i>Financial Consultancy</h5>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-0"
                             data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
-                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Business Loans</h5>
+                            <h5 class="m-0"><i class="fa fa-bars text-info me-3"></i>Business Loans</h5>
                         </button>
                     </div>
                 </div>
@@ -397,10 +397,10 @@
                                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
                                         diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
                                         clita duo justo erat amet.</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Secured Loans</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Credit Facilities</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Cash Advanced</p>
-                                    <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <p><i class="fa fa-check text-info me-3"></i>Secured Loans</p>
+                                    <p><i class="fa fa-check text-info me-3"></i>Credit Facilities</p>
+                                    <p><i class="fa fa-check text-info me-3"></i>Cash Advanced</p>
+                                    <a href="" class="btn btn-info py-3 px-5 mt-3">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -417,10 +417,10 @@
                                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
                                         diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
                                         clita duo justo erat amet.</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Secured Loans</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Credit Facilities</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Cash Advanced</p>
-                                    <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <p><i class="fa fa-check text-info me-3"></i>Secured Loans</p>
+                                    <p><i class="fa fa-check text-info me-3"></i>Credit Facilities</p>
+                                    <p><i class="fa fa-check text-info me-3"></i>Cash Advanced</p>
+                                    <a href="" class="btn btn-info py-3 px-5 mt-3">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -437,10 +437,10 @@
                                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
                                         diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
                                         clita duo justo erat amet.</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Secured Loans</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Credit Facilities</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Cash Advanced</p>
-                                    <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <p><i class="fa fa-check text-info me-3"></i>Secured Loans</p>
+                                    <p><i class="fa fa-check text-info me-3"></i>Credit Facilities</p>
+                                    <p><i class="fa fa-check text-info me-3"></i>Cash Advanced</p>
+                                    <a href="" class="btn btn-info py-3 px-5 mt-3">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -457,10 +457,10 @@
                                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
                                         diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
                                         clita duo justo erat amet.</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Secured Loans</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Credit Facilities</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Cash Advanced</p>
-                                    <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <p><i class="fa fa-check text-info me-3"></i>Secured Loans</p>
+                                    <p><i class="fa fa-check text-info me-3"></i>Credit Facilities</p>
+                                    <p><i class="fa fa-check text-info me-3"></i>Cash Advanced</p>
+                                    <a href="" class="btn btn-info py-3 px-5 mt-3">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -479,7 +479,7 @@
                 <div class="col-lg-7">
                     <div class="bg-white border rounded p-4 p-sm-5 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                            <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">Get In Touch
+                            <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">Get In Touch
                             </p>
                             <h1 class="display-5 mb-5">Request A Call-Back</h1>
                         </div>
@@ -516,7 +516,7 @@
                                 </div>
                             </div>
                             <div class="col-12 text-center">
-                                <button class="btn btn-primary w-100 py-3" type="submit">Submit Now</button>
+                                <button class="btn btn-info w-100 py-3" type="submit">Submit Now</button>
                             </div>
                         </div>
                     </div>
@@ -531,14 +531,14 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">Our Projects</p>
+                <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">Our Projects</p>
                 <h1 class="display-5 mb-5">We Have Completed Latest Projects</h1>
             </div>
             <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.3s">
                 <div class="project-item pe-5 pb-5">
                     <div class="project-img mb-3">
                         <img class="img-fluid rounded" src="img/service-1.jpg" alt="">
-                        <a href=""><i class="fa fa-link fa-3x text-primary"></i></a>
+                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
                     </div>
                     <div class="project-title">
                         <h4 class="mb-0">Financial Planning</h4>
@@ -547,7 +547,7 @@
                 <div class="project-item pe-5 pb-5">
                     <div class="project-img mb-3">
                         <img class="img-fluid rounded" src="img/service-2.jpg" alt="">
-                        <a href=""><i class="fa fa-link fa-3x text-primary"></i></a>
+                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
                     </div>
                     <div class="project-title">
                         <h4 class="mb-0">Cash Investment</h4>
@@ -556,7 +556,7 @@
                 <div class="project-item pe-5 pb-5">
                     <div class="project-img mb-3">
                         <img class="img-fluid rounded" src="img/service-3.jpg" alt="">
-                        <a href=""><i class="fa fa-link fa-3x text-primary"></i></a>
+                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
                     </div>
                     <div class="project-title">
                         <h4 class="mb-0">Financial Consultancy</h4>
@@ -565,7 +565,7 @@
                 <div class="project-item pe-5 pb-5">
                     <div class="project-img mb-3">
                         <img class="img-fluid rounded" src="img/service-4.jpg" alt="">
-                        <a href=""><i class="fa fa-link fa-3x text-primary"></i></a>
+                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
                     </div>
                     <div class="project-title">
                         <h4 class="mb-0">Business Loans</h4>
@@ -581,7 +581,7 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">Our Team</p>
+                <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">Our Team</p>
                 <h1 class="display-5 mb-5">Exclusive Team</h1>
             </div>
             <div class="row g-4">
@@ -640,14 +640,14 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">Témoignages</p>
+                <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">Témoignages</p>
                 <h1 class="display-5 mb-5">Nos clients s'expriment !</h1>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.3s">
                 <div class="testimonial-item">
                     <div class="testimonial-text border rounded p-4 pt-5 mb-5">
                         <div class="btn-square bg-white border rounded-circle">
-                            <i class="fa fa-quote-right fa-2x text-primary"></i>
+                            <i class="fa fa-quote-right fa-2x text-info"></i>
                         </div>
                         Je suis très satisfaite du service de réservation en ligne de tricom coiffure.
                         C'est simple et rapide, j'ai pu prendre rendez-vous pour ma coiffure en quelques clics seulement !
@@ -659,7 +659,7 @@
                 <div class="testimonial-item">
                     <div class="testimonial-text border rounded p-4 pt-5 mb-5">
                         <div class="btn-square bg-white border rounded-circle">
-                            <i class="fa fa-quote-right fa-2x text-primary"></i>
+                            <i class="fa fa-quote-right fa-2x text-info"></i>
                         </div>
                         J'ai été impressionnée par la qualité des prestations.
                         Le personnel était très professionnel et compétent, et j'ai adoré ma coiffure !
@@ -672,7 +672,7 @@
                 <div class="testimonial-item">
                     <div class="testimonial-text border rounded p-4 pt-5 mb-5">
                         <div class="btn-square bg-white border rounded-circle">
-                            <i class="fa fa-quote-right fa-2x text-primary"></i>
+                            <i class="fa fa-quote-right fa-2x text-info"></i>
                         </div>
                         Je suis très contente d'avoir choisi ce site pour ma coiffure. 
                         La coiffeuse a été très attentive à mes besoins et a créé une coiffure qui correspondait parfaitement à mes attentes.
@@ -685,7 +685,7 @@
                 <div class="testimonial-item">
                     <div class="testimonial-text border rounded p-4 pt-5 mb-5">
                         <div class="btn-square bg-white border rounded-circle">
-                            <i class="fa fa-quote-right fa-2x text-primary"></i>
+                            <i class="fa fa-quote-right fa-2x text-info"></i>
                         </div>
                         Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem
                         lorem magna ut et, nonumy et labore et tempor diam tempor erat.

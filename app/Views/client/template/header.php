@@ -40,7 +40,7 @@
     <!-- Spinner Start -->
     <div id="spinner"
         class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-        <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
+        <div class="spinner-border text-info" role="status" style="width: 3rem; height: 3rem;"></div>
     </div>
     <!-- Spinner End -->
 
@@ -49,17 +49,17 @@
     <div class="container-fluid fixed-top px-0 wow fadeIn" data-wow-delay="0.1s">
         <div class="top-bar row gx-0 align-items-center d-none d-lg-flex">
             <div class="col-lg-6 px-5 text-start">
-                <small><i class="fa fa-map-marker-alt text-primary me-2"></i>90000 Belfort, France</small>
+                <small><i class="fa fa-map-marker-alt text-info me-2"></i>90000 Belfort, France</small>
             </div>
             <div class="col-lg-6 px-5 text-end">
-                <small><i class="fa fa-envelope text-primary me-2"></i>tricom@gmail.com</small>
-                <small class="ms-4"><i class="fa fa-phone-alt text-primary me-2"></i>+33 7 52 08 06 02</small>
+                <small><i class="fa fa-envelope text-info me-2"></i>tricom@gmail.com</small>
+                <small class="ms-4"><i class="fa fa-phone-alt text-info me-2"></i>+33 7 52 08 06 02</small>
             </div>
         </div>
 
         <nav class="navbar navbar-expand-lg navbar-light py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
             <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-                <h1 class="display-5 text-primary m-0">Tricom-Coiffure</h1>
+                <h1 class="display-5 text-info m-0" >Tricom-Coiffure</h1>
             </a>
             <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse"
                 data-bs-target="#navbarCollapse">
@@ -74,7 +74,7 @@
                     <a href="contact.html" class="nav-item nav-link">Contact</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
-                    <a href="" class="btn btn-primary">Connexion</a>
+                    <a href="login-form.php" class="btn btn-info">Connexion</a>
                 </div>
             </div>
         </nav>

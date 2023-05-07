@@ -1,10 +1,11 @@
 /********** Template CSS **********/
 :root {
-    --primary: #355EFC;
+    --primary: #54B4D3;
     --secondary: #E93C05;
     --tertiary: #555555;
-    --light: #DFE4FD;
+    --light: #ffffff;
     --dark: #011A41;
+    --info: #54B4D3;
 }
 
 .back-to-top {
@@ -113,14 +114,18 @@ h6,
 
 .navbar .navbar-nav .nav-link {
     padding: 25px 15px;
-    color: var(--tertiary);
-    font-weight: 500;
+    color: var(--info);
+    /*font-weight: 500;*/
+    font-weight: bold;
     outline: none;
 }
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--primary);
+    color: var(--info);
+    border-bottom: var(--info) 2px solid;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 @media (max-width: 991.98px) {
@@ -250,8 +255,8 @@ h6,
 }
 
 .feature .feature-box:hover {
-    background: var(--primary);
-    border-color: var(--primary) !important;
+    background: var(--info);
+    border-color: var(--info) !important;
 }
 
 .feature .feature-box:hover * {
@@ -265,8 +270,8 @@ h6,
 }
 
 .service .nav .nav-link.active {
-    border-color: var(--primary) !important;
-    background: var(--primary);
+    border-color: var(--info) !important;
+    background: var(--info);
 }
 
 .service .nav .nav-link.active h5 {
@@ -319,8 +324,8 @@ h6,
 }
 
 .project-item:hover .project-title {
-    background: var(--primary);
-    border-color: var(--primary);
+    background: var(--info);
+    border-color: var(--info);
 }
 
 .project-item .project-title h4 {
@@ -345,7 +350,7 @@ h6,
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--primary);
+    color: var(--info);
     background: var(--light);
     border-radius: 45px;
     font-size: 22px;
@@ -354,7 +359,7 @@ h6,
 
 .project-carousel .owl-nav .owl-prev:hover,
 .project-carousel .owl-nav .owl-next:hover {
-    background: var(--primary);
+    background: var(--info);
     color: var(--light);
 }
 
@@ -388,8 +393,8 @@ h6,
 }
 
 .team-item:hover .team-text {
-    background: var(--primary);
-    border-color: var(--primary);
+    background: var(--info);
+    border-color: var(--info);
 }
 
 .team-item .team-text h4 {
@@ -402,7 +407,7 @@ h6,
 
 .team-item .team-social .btn {
     background: var(--light);
-    color: var(--primary);
+    color: var(--info);
 }
 
 .team-item:hover .team-social .btn {
@@ -410,7 +415,7 @@ h6,
 }
 
 .team-item .team-social .btn:hover {
-    background: var(--primary);
+    background: var(--info);
     color: var(--light);
 }
 
@@ -493,11 +498,11 @@ h6,
 }
 
 .testimonial-carousel .owl-dot.active {
-    border-color: var(--primary);
+    border-color: var(--info);
 }
 
 .testimonial-carousel .owl-dot.active::after {
-    background: var(--primary);
+    background: var(--info);
 }
 
 
@@ -522,7 +527,7 @@ h6,
 }
 
 .footer .btn.btn-link:hover {
-    color: var(--primary);
+    color: var(--info);
     letter-spacing: 1px;
     box-shadow: none;
 }
@@ -537,5 +542,9 @@ h6,
 }
 
 .copyright a:hover {
-    color: var(--primary);
+    color: var(--info);
+}
+
+.btn-info {
+    color: white;
 }
