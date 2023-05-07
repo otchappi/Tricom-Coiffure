@@ -71,7 +71,7 @@
                     <a href="about.html" class="nav-item nav-link">Coiffure</a>
                     <a href="service.html" class="nav-item nav-link">Boutique</a>
                     <a href="contact.html" class="nav-item nav-link">A propos</a>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    <a href="contact.html" class="nav-item nav-link">Contacts</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
                     <a href="login-form.php" class="btn btn-info">Connexion</a>

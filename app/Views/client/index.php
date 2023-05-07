@@ -178,145 +178,111 @@
     </div>
     <!-- Features End -->
 
-<div class="container-xxl py-5">
-    <div class="container">
-        <div class="row g-4 align-items-end mb-4">
-            <div class="col-lg-6">
-                <div class="accordion" id="accordionExample">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Titre de l'accordéon 1
-      </button>
-    </h2>
-    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-      <div class="accordion-body">
-        Contenu de l'accordéon 1
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        Titre de l'accordéon 2
-      </button>
-    </h2>
-    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-      <div class="accordion-body">
-        Contenu de l'accordéon 2
-      </div>
-    </div>
-  </div>
-</div>
-
-            </div>
-        </div>
-    </div>    
-</div>
-
-
-    <!-- About Start -->
-    <div class="container-xxl py-5">
+    <div class="container-xxl py-2">
         <div class="container">
-            <div class="row g-4 align-items-end mb-4">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <img class="img-fluid rounded" src="img/about.jpg">
+            <div class="row">
+                <h1 class="display-5 mb-4 text-center">FAQ</h1>
+            </div>
+            <div class="row g-4 mb-4">
+            <div class="col-lg-6">
+                    <div class="accordion accordion-flush" id="accordionFlushExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingOne">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                    <span class="fa fa-calendar me-2"></span>
+                                    Comment prendre rendez-vous ?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    Pour prendre rendez-vous, vous pouvez soit utiliser notre formulaire en ligne sur notre site web
+                                    soit appeler notre service clientèle pendant les heures d'ouverture.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                    <span class="fas fa-list me-2"></span>
+                                    Quels types de coiffures proposez-vous ?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    Nous proposons une variété de coiffures pour tous les types de cheveux,
+                                    en mettant l'accent sur les coiffures afro populaires. Vous pouvez trouver une liste
+                                    complète de nos services dans la section "Coiffures", ou discuter avec nos coiffeuses
+                                    pour voir ce qui conviendra le mieux à votre style et à vos besoins.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                    <span class="fa fa-frown me-2"></span>
+                                    Que se passe t-il si je ne suis pas satisfaite ?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                     Si vous n'êtes pas satisfaite de votre prestation, vous pouvez en parler directement avec votre coiffeuse. 
+                                     Dans la plupart des cas, elle fera de son mieux pour répondre à vos attentes.
+                                     Si cela ne fonctionne pas, veuillez contacter notre service clientèle pour discuter de la situation
+                                     et trouver une solution appropriée. Nous sommes là pour vous aider à obtenir la coiffure que vous souhaitez.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">About Us</p>
-                    <h1 class="display-5 mb-4">We Help Our Clients To Grow Their Business</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
-                        eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
-                    </p>
-                    <div class="border rounded p-4">
-                        <nav>
-                            <div class="nav nav-tabs mb-3" id="nav-tab" role="tablist">
-                                <button class="nav-link fw-semi-bold active" id="nav-story-tab" data-bs-toggle="tab"
-                                    data-bs-target="#nav-story" type="button" role="tab" aria-controls="nav-story"
-                                    aria-selected="true">Story</button>
-                                <button class="nav-link fw-semi-bold" id="nav-mission-tab" data-bs-toggle="tab"
-                                    data-bs-target="#nav-mission" type="button" role="tab" aria-controls="nav-mission"
-                                    aria-selected="false">Mission</button>
-                                <button class="nav-link fw-semi-bold" id="nav-vision-tab" data-bs-toggle="tab"
-                                    data-bs-target="#nav-vision" type="button" role="tab" aria-controls="nav-vision"
-                                    aria-selected="false">Vision</button>
+                <div class="col-lg-6">
+                    <div class="accordion accordion-flush" id="accordionFlushExample2">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                                    <span class="fa fa-plus me-2"></span>
+                                    Dois je payer pour modifier mon rendez-vous ?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample2">
+                                <div class="accordion-body">
+                                    NON, aucun frais n'est à prévoir pour une modification de rendez-vous. Toutefois celle-ci dois se faire 3h avant le rendez-vous.
+                                </div>
                             </div>
-                        </nav>
-                        <div class="tab-content" id="nav-tabContent">
-                            <div class="tab-pane fade show active" id="nav-story" role="tabpanel"
-                                aria-labelledby="nav-story-tab">
-                                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
-                                    amet diam et eos labore.</p>
-                                <p class="mb-0">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.
-                                    Clita erat ipsum et lorem et sit</p>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingFive">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                                    <span class="fas fa-user me-2"></span>
+                                    Comment savoir si une coiffeuse est qualifiée ?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample2">
+                                <div class="accordion-body">
+                                    Nous ne travaillons qu'avec des coiffeuses qualifiées et expérimentées. 
+                                    Chacune est vérifiée avant d'être ajoutée à notre liste, afin que vous 
+                                    puissiez être sûr que vous recevrez un service professionnel et de qualité.
+                                </div>
                             </div>
-                            <div class="tab-pane fade" id="nav-mission" role="tabpanel"
-                                aria-labelledby="nav-mission-tab">
-                                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
-                                    amet diam et eos labore.</p>
-                                <p class="mb-0">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.
-                                    Clita erat ipsum et lorem et sit</p>
-                            </div>
-                            <div class="tab-pane fade" id="nav-vision" role="tabpanel" aria-labelledby="nav-vision-tab">
-                                <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
-                                    amet diam et eos labore.</p>
-                                <p class="mb-0">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore.
-                                    Clita erat ipsum et lorem et sit</p>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingSix">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                                    <span class="fa fa-envelope me-2"></span>
+                                    Comment puis-je contacter le service client en cas de problème ?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample2">
+                                <div class="accordion-body">
+                                     Si vous avez des problèmes ou des préoccupations, vous pouvez nous contacter par e-mail ou par téléphone.
+                                     Les informations de contact sont disponibles sur notre site web dans la section "Contacts".
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="border rounded p-4 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="row g-4">
-                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
-                        <div class="h-100">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-info">
-                                    <i class="fa fa-times text-white"></i>
-                                </div>
-                                <div class="ps-3">
-                                    <h4>No Hidden Cost</h4>
-                                    <span>Clita erat ipsum lorem sit sed stet duo justo</span>
-                                </div>
-                                <div class="border-end d-none d-lg-block"></div>
-                            </div>
-                            <div class="border-bottom mt-4 d-block d-lg-none"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
-                        <div class="h-100">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-info">
-                                    <i class="fa fa-users text-white"></i>
-                                </div>
-                                <div class="ps-3">
-                                    <h4>Dedicated Team</h4>
-                                    <span>Clita erat ipsum lorem sit sed stet duo justo</span>
-                                </div>
-                                <div class="border-end d-none d-lg-block"></div>
-                            </div>
-                            <div class="border-bottom mt-4 d-block d-lg-none"></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
-                        <div class="h-100">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-info">
-                                    <i class="fa fa-phone text-white"></i>
-                                </div>
-                                <div class="ps-3">
-                                    <h4>24/7 Available</h4>
-                                    <span>Clita erat ipsum lorem sit sed stet duo justo</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        </div>    
     </div>
-    <!-- About End -->
 
 
     <!-- Facts Start -->
