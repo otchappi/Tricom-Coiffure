@@ -70,6 +70,7 @@
 
     <!-- Template Javascript -->
     <script src="<?=js_url('main')?>"></script>
+
 </body>
 
 </html>

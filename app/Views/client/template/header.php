@@ -31,6 +31,9 @@
 
     <!-- Template Stylesheet -->
     <link href="<?=css_url('style')?>" rel="stylesheet">
+
+    <!-- Vendor Stylesheet -->
+    <link href="<?=css_url('faq')?>" rel="stylesheet">
 </head>
 
 <body>
