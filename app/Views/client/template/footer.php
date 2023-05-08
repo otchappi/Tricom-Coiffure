@@ -10,7 +10,7 @@
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+33 7 52 08 06 02</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>tricom@gmail.com</p>
                     <div class="d-flex pt-2">
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href="https://wa.me/33754232300"><i
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" target="_blank" href="https://wa.me/33754232300"><i
                                 class="fab fa-whatsapp"></i></a>
                         <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i
                                 class="fab fa-facebook-f"></i></a>
@@ -46,7 +46,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a class="border-bottom" href="#">Tricom-Coiffure</a>, All Right Reserved.
+                    &copy; <a class="border-bottom" href="#">Tricom-Coiffure 2023</a>, All Rights Reserved.
                 </div>
             </div>
         </div>
