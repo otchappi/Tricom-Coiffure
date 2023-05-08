@@ -71,6 +71,9 @@
     <!-- Template Javascript -->
     <script src="<?=js_url('main')?>"></script>
 
+    <!-- Vendor Javascript -->
+    <script src="<?=js_url('accueil')?>"></script>
+
 </body>
 
 </html>
