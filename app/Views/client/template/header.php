@@ -58,7 +58,7 @@
         </div>
 
         <nav class="navbar navbar-expand-lg navbar-light py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-            <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
+            <a href="<?=base_url();?>" class="navbar-brand ms-4 ms-lg-0">
                 <h1 class="display-5 text-info m-0" >Tricom-Coiffure</h1>
             </a>
             <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse"
@@ -67,14 +67,15 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto p-4 p-lg-0">
-                    <a href="index.html" class="nav-item nav-link active">Accueil</a>
+                    <a href="<?=base_url();?>" class="nav-item nav-link active">Accueil</a>
                     <a href="about.html" class="nav-item nav-link">Coiffure</a>
                     <a href="service.html" class="nav-item nav-link">Boutique</a>
                     <a href="contact.html" class="nav-item nav-link">A propos</a>
                     <a href="contact.html" class="nav-item nav-link">Contacts</a>
+                    <a href="login-form.php" class="nav-item nav-link onglet-connexion-mobile">Connexion</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
-                    <a href="login-form.php" class="btn btn-info">Connexion</a>
+                    <a href="login-form.php" class="btn btn-info onglet-connexion-pc">Connexion</a>
                 </div>
             </div>
         </nav>

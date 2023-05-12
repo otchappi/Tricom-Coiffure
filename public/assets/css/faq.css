@@ -1,4 +1,28 @@
 
+@media screen and (max-width:700px) {
+    .carousel-title {
+        font-size: 1.8em;
+        width: 65%;
+        margin-top: 170px;
+        color: #fbca3e;
+        text-shadow: 2px 2px 3px black;
+    }
+
+    .onglet-connexion-pc {
+        display: none;
+    }
+}
+@media screen and (min-width:701px) {
+    .carousel-title {
+        font-size: 2.8em;
+        color: #fbca3e;
+        text-shadow: 2px 2px 3px black;
+    }
+
+    .onglet-connexion-mobile {
+        display: none;
+    }
+}
 .accordion-item {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }

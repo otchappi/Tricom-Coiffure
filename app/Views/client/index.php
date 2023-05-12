@@ -9,11 +9,11 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-6 col-md-6 col-xs-6">
-                                    <h4 class="display-1 mb-4 animated slideInDown" style="font-size: 2.8em;">
+                                    <h4 class="display-1 mb-4 animated slideInDown carousel-title">
                                         Des coiffures africaines authentiques à portée de clic !
                                     </h4>
                                     <a href="" class="btn btn-info py-2 px-3 animated slideInDown">
-                                        Prendre rendez-vous &nbsp; &nbsp;
+                                        Prendre rendez-vous &nbsp;
                                         <span class="fa fa-calendar"></span>
                                     </a>
                                 </div>
@@ -27,11 +27,11 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-6">
-                                    <h4 class="display-1 mb-4 animated slideInDown" style="font-size: 2.8em;">
+                                    <h4 class="display-1 mb-4 animated slideInDown carousel-title">
                                         Prenez rendez-vous facilement pour un relooking tendance !
                                     </h4>
                                     <a href="" class="btn btn-info py-2 px-3 animated slideInDown">
-                                        Prendre rendez-vous &nbsp; &nbsp;
+                                        Prendre rendez-vous &nbsp;
                                         <span class="fa fa-calendar"></span>
                                     </a>
                                 </div>

@@ -14,6 +14,12 @@ if ( ! function_exists('css_url')) {
     }
 }
 
+if ( ! function_exists('scss_url')) {
+    function scss_url($nom) {
+        return assets('scss/' . $nom . '.scss');
+    }
+}
+
 if ( ! function_exists('img_url')) {
     function img_url($nom) {
         return assets( 'img/' . $nom);
