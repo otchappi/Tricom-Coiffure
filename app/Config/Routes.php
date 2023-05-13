@@ -16,7 +16,7 @@ $routes->setDefaultMethod('index');
 $routes->setTranslateURIDashes(false);
 $routes->set404Override(function()
     {
-        echo view('login/page-404.php', array('titre' => 'Universal-Tel | Url non valide'));
+        echo view('erreur.php', array('titre' => 'OnGere - Coiffure | Url non valide'));
     });
 // The Auto Routing (Legacy) is very dangerous. It is easy to create vulnerable apps
 // where controller filters or CSRF protection are bypassed.

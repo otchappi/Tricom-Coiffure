@@ -9,11 +9,11 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-6 col-md-6 col-xs-6">
-                                    <h4 class="display-1 mb-4 animated slideInDown" style="font-size: 2.8em;">
+                                    <h4 class="display-1 mb-4 animated slideInDown carousel-title">
                                         Des coiffures africaines authentiques à portée de clic !
                                     </h4>
                                     <a href="" class="btn btn-info py-2 px-3 animated slideInDown">
-                                        Prendre rendez-vous &nbsp; &nbsp;
+                                        Prendre rendez-vous &nbsp;
                                         <span class="fa fa-calendar"></span>
                                     </a>
                                 </div>
@@ -27,11 +27,11 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-6">
-                                    <h4 class="display-1 mb-4 animated slideInDown" style="font-size: 2.8em;">
+                                    <h4 class="display-1 mb-4 animated slideInDown carousel-title">
                                         Prenez rendez-vous facilement pour un relooking tendance !
                                     </h4>
                                     <a href="" class="btn btn-info py-2 px-3 animated slideInDown">
-                                        Prendre rendez-vous &nbsp; &nbsp;
+                                        Prendre rendez-vous &nbsp;
                                         <span class="fa fa-calendar"></span>
                                     </a>
                                 </div>
@@ -104,6 +104,93 @@
             </div>
         </div>
     </div>
+
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="rounded p-2 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="row">
+                    <h1 class="display-5 mb-2 text-center">
+                        Comment ca marche ?
+                    </h1>
+                </div>
+                <div class="row g-4 process">
+                    <ul>
+                        <li style="--accent-color:#4CADAD">
+                            <div class="date">1- Choix de coiffure</div>
+                            <div class="descr py-3">
+                                Tout d'abord, vous devez sélectionner la coiffure que vous souhaitez pour votre
+                                rendez-vous. Nous avons une large gamme de coiffures disponibles pour tous
+                                les goûts, besoins et toutes les occasions.
+                            </div>
+                        </li>
+                        <li style="--accent-color:#FBCA3E">
+                            <div class="date">2- Fixez les détails</div>
+                            <div class="descr py-3">
+                                Cela inclut la date, l'heure et le lieu où vous souhaitez être coiffé, ainsi que d'autres
+                                détails importants tels que les accessoires que vous souhaitez utiliser ou les demandes 
+                                spéciales que vous pourriez avoir.
+                            </div>
+                        </li>
+                        <li style="--accent-color:#1B5F8C">
+                            <div class="date">3- Réglez les frais</div>
+                            <div class="descr py-3">
+                                Une fois que vous avez effectué votre paiement, vous recevrez un mail de confirmation
+                                de votre rendez-vous avec toutes les informations nécessaires.
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+     <!-- Projects Start -->
+    <div class="container-xxl">
+        <div class="container">
+            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                <h1 class="display-5 mb-5">Nos coiffures populaires</h1>
+            </div>
+            <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.3s">
+                <div class="project-item pe-5 pb-5">
+                    <div class="project-img mb-3">
+                        <img class="img-fluid rounded" src="<?=img_url('coiffure-1.jpg');?>" alt="">
+                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
+                    </div>
+                    <div class="project-title">
+                        <h4 class="mb-0">Locks</h4>
+                    </div>
+                </div>
+                <div class="project-item pe-5 pb-5">
+                    <div class="project-img mb-3">
+                        <img class="img-fluid rounded" src="<?=img_url('coiffure-5.jpg');?>" alt="">
+                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
+                    </div>
+                    <div class="project-title">
+                        <h4 class="mb-0">Nattes homme</h4>
+                    </div>
+                </div>
+                <div class="project-item pe-5 pb-5">
+                    <div class="project-img mb-3">
+                        <img class="img-fluid rounded" src="<?=img_url('coiffure-3.jpg');?>" alt="">
+                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
+                    </div>
+                    <div class="project-title">
+                        <h4 class="mb-0">Rasta</h4>
+                    </div>
+                </div>
+                <div class="project-item pe-5 pb-5">
+                    <div class="project-img mb-3">
+                        <img class="img-fluid rounded" src="<?=img_url('coiffure-4.jpg');?>" alt="">
+                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
+                    </div>
+                    <div class="project-title">
+                        <h4 class="mb-0">Pose de greffe</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Projects End -->
 
         <!-- Features Start -->
     <div class="container-xxl feature py-5">
@@ -333,120 +420,11 @@
         </div>    
     </div>
 
-    <!-- Projects Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">Our Projects</p>
-                <h1 class="display-5 mb-5">We Have Completed Latest Projects</h1>
-            </div>
-            <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.3s">
-                <div class="project-item pe-5 pb-5">
-                    <div class="project-img mb-3">
-                        <img class="img-fluid rounded" src="img/service-1.jpg" alt="">
-                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
-                    </div>
-                    <div class="project-title">
-                        <h4 class="mb-0">Financial Planning</h4>
-                    </div>
-                </div>
-                <div class="project-item pe-5 pb-5">
-                    <div class="project-img mb-3">
-                        <img class="img-fluid rounded" src="img/service-2.jpg" alt="">
-                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
-                    </div>
-                    <div class="project-title">
-                        <h4 class="mb-0">Cash Investment</h4>
-                    </div>
-                </div>
-                <div class="project-item pe-5 pb-5">
-                    <div class="project-img mb-3">
-                        <img class="img-fluid rounded" src="img/service-3.jpg" alt="">
-                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
-                    </div>
-                    <div class="project-title">
-                        <h4 class="mb-0">Financial Consultancy</h4>
-                    </div>
-                </div>
-                <div class="project-item pe-5 pb-5">
-                    <div class="project-img mb-3">
-                        <img class="img-fluid rounded" src="img/service-4.jpg" alt="">
-                        <a href=""><i class="fa fa-link fa-3x text-info"></i></a>
-                    </div>
-                    <div class="project-title">
-                        <h4 class="mb-0">Business Loans</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Projects End -->
-
-
-    <!-- Team Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">Our Team</p>
-                <h1 class="display-5 mb-5">Exclusive Team</h1>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item">
-                        <img class="img-fluid rounded" src="img/team-1.jpg" alt="">
-                        <div class="team-text">
-                            <h4 class="mb-0">Kate Winslet</h4>
-                            <div class="team-social d-flex">
-                                <a class="btn btn-square rounded-circle mx-1" href=""><i
-                                        class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square rounded-circle mx-1" href=""><i
-                                        class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item">
-                        <img class="img-fluid rounded" src="img/team-2.jpg" alt="">
-                        <div class="team-text">
-                            <h4 class="mb-0">Jac Jacson</h4>
-                            <div class="team-social d-flex">
-                                <a class="btn btn-square rounded-circle mx-1" href=""><i
-                                        class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square rounded-circle mx-1" href=""><i
-                                        class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item">
-                        <img class="img-fluid rounded" src="img/team-3.jpg" alt="">
-                        <div class="team-text">
-                            <h4 class="mb-0">Doris Jordan</h4>
-                            <div class="team-social d-flex">
-                                <a class="btn btn-square rounded-circle mx-1" href=""><i
-                                        class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square rounded-circle mx-1" href=""><i
-                                        class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-
 
     <!-- Testimonial Start -->
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="d-inline-block border rounded text-info fw-semi-bold py-1 px-3">Témoignages</p>
                 <h1 class="display-5 mb-5">Nos clients s'expriment !</h1>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.3s">
