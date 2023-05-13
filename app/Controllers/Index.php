@@ -16,6 +16,11 @@ class Index extends ClientController
         $this->render('Accueil', 'index');
     }
 
+    public function coiffure()
+    {
+        $this->render('Coiffure', 'coiffure');
+    }
+
     public function authentification(){
        
         if($this->request->getMethod() == 'post'){

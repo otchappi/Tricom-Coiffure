@@ -67,8 +67,8 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto p-4 p-lg-0">
-                    <a href="index.html" class="nav-item nav-link active">Accueil</a>
-                    <a href="about.html" class="nav-item nav-link">Coiffure</a>
+                    <a href="<?=base_url();?>" class="nav-item nav-link active">Accueil</a>
+                    <a href="<?=base_url('coiffure');?>" class="nav-item nav-link">Coiffure</a>
                     <a href="service.html" class="nav-item nav-link">Boutique</a>
                     <a href="contact.html" class="nav-item nav-link">A propos</a>
                     <a href="contact.html" class="nav-item nav-link">Contacts</a>
